@@ -1,3 +1,7 @@
-body{
-  background-image: url("/images/png-clipart-honda-vehicle-lot-car-honda-civic-poster-car-compact-car-sedan.png");
+h1{
+  color: brown;
+  text-align: center;
+  background-color: aquamarine;
+  border: 2px solid black;
+  box-shadow: 10px 10px 10px gray;
 }
