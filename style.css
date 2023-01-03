@@ -1,7 +1,9 @@
-h1{
+body{
+  background-color: azure;
+}
+.heading1{
   color: brown;
-  text-align: center;
-  background-color: aquamarine;
   border: 2px solid black;
+  background-color: aquamarine;
   box-shadow: 10px 10px 10px gray;
 }
